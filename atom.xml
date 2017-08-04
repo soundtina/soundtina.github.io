@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>印有话</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wangyonghua.com/"/>
+  <updated>2017-08-04T05:51:06.000Z</updated>
+  <id>http://wangyonghua.com/</id>
+  
+  <author>
+    <name>王永华</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的生活开始了</title>
+    <link href="http://wangyonghua.com/2017/08/04/abc/"/>
+    <id>http://wangyonghua.com/2017/08/04/abc/</id>
+    <published>2017-08-04T05:48:18.000Z</published>
+    <updated>2017-08-04T05:51:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>奋斗<br><a id="more"></a></p>
+<h2 id="好好学习，天天向上"><a href="#好好学习，天天向上" class="headerlink" title="好好学习，天天向上"></a>好好学习，天天向上</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;奋斗&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Read Plan</title>
+    <link href="http://wangyonghua.com/2016/03/18/read-plan/"/>
+    <id>http://wangyonghua.com/2016/03/18/read-plan/</id>
+    <published>2016-03-18T15:07:38.000Z</published>
+    <updated>2017-08-04T03:52:50.327Z</updated>
+    
+    <content type="html"><![CDATA[<p>我需要看完下面这些书<br><a id="more"></a></p>
+<ul>
+<li>javascript权威指南</li>
+<li>css权威指南</li>
+<li>程序员的45个高效习惯</li>
+</ul>
+<h2 id="需要制定一个详细的计划，三个月里面看完"><a href="#需要制定一个详细的计划，三个月里面看完" class="headerlink" title="需要制定一个详细的计划，三个月里面看完"></a>需要制定一个详细的计划，三个月里面看完</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我需要看完下面这些书&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2015个人总结</title>
+    <link href="http://wangyonghua.com/2016/02/05/2015-summary/"/>
+    <id>http://wangyonghua.com/2016/02/05/2015-summary/</id>
+    <published>2016-02-05T06:19:59.000Z</published>
+    <updated>2017-08-04T03:52:50.327Z</updated>
+    
+    <content type="html"><![CDATA[<p>再有几个小时我就结束了2015的全部工作内容了，回老家去过大年了。想想还有点小激动呢。。。<br>带着这无比激动心情，刚刚看了下高速的路况。我决定还是冷静下好好写个总结。<br>2015算比较充实的一年:换了新工作、转了新技术方向、拿了驾照、买了小车，儿子学会了走路跟说话<br>…<br><a id="more"></a></p>
+<h2 id="关于新的工作"><a href="#关于新的工作" class="headerlink" title="关于新的工作"></a>关于新的工作</h2><p>七月份的时候，我从 <strong>新榕软件</strong> 换了现在的公司 <a href="http://www.patsnap.com" target="_blank" rel="external">智慧芽</a> 从一个.NET开发转变为纯粹的前端开发。由强类型的面向对象的<code>C#</code>换到了弱类型的面向函数的<code>Javascript</code>。换工作的过程中我面试过好几个公司，其中有个面试官问我</p>
+<blockquote>
+<p>放弃了积累了那么久的后台开发的经验，来重新开始做前台开发会不会后悔？</p>
+</blockquote>
+<p>我觉得在技术上面的积累，永远都没有 <strong>放弃</strong> 的说法。你的积累你的经验总在将来能够帮到你。只要你在你做决定(写代码)的时候愿意去 <strong>思考</strong> 、<strong>总结</strong> 。虽然我现在换到了<code>Javascript</code>，但是学习的过程中还是有不少的共通的东西。当然因为我现在技术上面的积累不管是<code>C#</code>还是<code>Javascript</code>都还是很少，不敢说什么融会贯通。终一天我要打通这一切：</p>
+<blockquote>
+<p>骄傲的对着天空说：<code>万变不离其宗</code></p>
+</blockquote>
+<div class="tip"><br>…什么可以提前走了走了？ 回答老家再写吧。 再见<br></div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;再有几个小时我就结束了2015的全部工作内容了，回老家去过大年了。想想还有点小激动呢。。。&lt;br&gt;带着这无比激动心情，刚刚看了下高速的路况。我决定还是冷静下好好写个总结。&lt;br&gt;2015算比较充实的一年:换了新工作、转了新技术方向、拿了驾照、买了小车，儿子学会了走路跟说话&lt;br&gt;…&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vue-loader 开启压缩后的一些坑</title>
+    <link href="http://wangyonghua.com/2016/02/04/vue-loader-bug/"/>
+    <id>http://wangyonghua.com/2016/02/04/vue-loader-bug/</id>
+    <published>2016-02-04T08:44:25.000Z</published>
+    <updated>2017-08-04T03:52:50.327Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用vue-loader 配合webpack 对.vue文件进行加载的时候，如果开启了代码压缩会出来下面<br>几种问题，做个记录。<br><a id="more"></a></p>
+<ul>
+<li>丢失td结束标记，导致页面的布局错乱</li>
+<li>input的属性type为text 时会被删了</li>
+<li><code>&lt;input ... checked=&quot;{check(&#39;id&#39;)}&quot; /&gt;</code>这个表达式会被压成 <code>&lt;input ... checked /&gt;</code></li>
+</ul>
+<h2 id="丢失td结束标记"><a href="#丢失td结束标记" class="headerlink" title="丢失td结束标记"></a>丢失td结束标记</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">tr</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>1<span class="tag">&lt;/<span class="name">td</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>2<span class="tag">&lt;/<span class="name">td</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>3<span class="tag">&lt;/<span class="name">td</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>4<span class="tag">&lt;/<span class="name">td</span>&gt;</span></div><div class="line">    <span class="tag">&lt;/<span class="name">tr</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></div></pre></td></tr></table></figure>
+<p><strong>最终压成:</strong></p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">tr</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>1</div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>2</div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>3</div><div class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>4</div><div class="line">    <span class="tag">&lt;/<span class="name">tr</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></div></pre></td></tr></table></figure>
+<div class="tip"><br>    这样就会造成页面的布局混乱<br></div>
+
+<p><strong>解决方法:</strong><br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//webpack.config.js配置</span></div><div class="line"><span class="comment">//设置vue-html-loader中的参数removeOptionalTags=false</span></div><div class="line"><span class="built_in">module</span>:&#123;</div><div class="line">    ....</div><div class="line">&#125;,</div><div class="line">vue: &#123;</div><div class="line">        loaders: &#123;</div><div class="line">            html: <span class="string">'vue-html-loader?removeOptionalTags=false'</span>,</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"><span class="comment">//hell</span></div></pre></td></tr></table></figure></p>
+<h2 id="type-”text”会被删了"><a href="#type-”text”会被删了" class="headerlink" title="type=”text”会被删了"></a>type=”text”会被删了</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">压缩前</div><div class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"text"</span> /&gt;</span></div><div class="line">压缩后</div><div class="line"><span class="tag">&lt;<span class="name">input</span> /&gt;</span></div></pre></td></tr></table></figure>
+<div class="tip"><br>如果有<code>.text</code>这样的选择器，就会失效<br></div>
+
+<p><strong>解决方法:</strong><br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//和上面类似加上removeRedundantAttributes=false</span></div><div class="line"><span class="built_in">module</span>:&#123;</div><div class="line">    ....</div><div class="line">&#125;,</div><div class="line">vue: &#123;</div><div class="line">        loaders: &#123;</div><div class="line">            html: <span class="string">'vue-html-loader?removeRedundantAttributes=false'</span>,</div><div class="line">        &#125;</div><div class="line">    &#125;</div></pre></td></tr></table></figure></p>
+<h2 id="checked-”xxxx”被压缩为checked"><a href="#checked-”xxxx”被压缩为checked" class="headerlink" title="checked=”xxxx”被压缩为checked"></a>checked=”xxxx”被压缩为checked</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">压缩前</div><div class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span> <span class="attr">checked</span>=<span class="string">"&#123;checkRole('id')&#125;"</span> /&gt;</span></div><div class="line">压缩后</div><div class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span> <span class="attr">checked</span>/&gt;</span></div></pre></td></tr></table></figure>
+<p><div class="tip"><br>    这会导致所绑定的判断方法直接被删除了,所有的checkbox都被选中<br></div><br><strong>解决方法可以有两个:</strong><br>1.跟上面一样:设置参数让vue-html-loader不要去截断这个<br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">html: <span class="string">'vue-html-loader?collapseBooleanAttributes=false'</span></div></pre></td></tr></table></figure></p>
+<p>但是这个会带来另外的问题：如果你自自定义控件中也用了checked/multiple 这种默认的属性，<br>它会自动给他补全了。如：<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">压缩前</div><div class="line"><span class="tag">&lt;<span class="name">slef-component</span> <span class="attr">multiple</span> /&gt;</span></div><div class="line">你在slefComponent里面定义的prop.multiple 是一个bool类型</div><div class="line">压缩后</div><div class="line"><span class="tag">&lt;<span class="name">slef-component</span> <span class="attr">multiple</span>=<span class="string">"multiple"</span>/&gt;</span></div><div class="line">这里直接导致了程序的出错</div></pre></td></tr></table></figure></p>
+<p>2.第二种方法可以避免这种情况<br><strong>不修改vue-html-loader的collapseBooleanAttributes</strong><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">该用v-bind来绑定控件(自定义控件，原生控件)的属性</div><div class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span> <span class="attr">v-bind:checked</span>=<span class="string">"checkRole('id')"</span> /&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">slef-component</span> <span class="attr">multiple</span> /&gt;</span></div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在使用vue-loader 配合webpack 对.vue文件进行加载的时候，如果开启了代码压缩会出来下面&lt;br&gt;几种问题，做个记录。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用webpack搭建vue开发环境</title>
+    <link href="http://wangyonghua.com/2015/10/30/build-VueJs/"/>
+    <id>http://wangyonghua.com/2015/10/30/build-VueJs/</id>
+    <published>2015-10-30T13:48:28.000Z</published>
+    <updated>2017-08-04T03:52:50.327Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近几天项目上使用了vue.js作为一个主要的开发框架，并且为了发布的方便搭配了webpack一起使用。CSS框架使用的是vue-strap(vue 对bootstrap控件做了封装)<br>这篇文章主要总结一下具体搭建的过程，和途中遇到的一些问题的解决办法<br><a id="more"></a></p>
+<h2 id="主要用到的工具"><a href="#主要用到的工具" class="headerlink" title="主要用到的工具"></a>主要用到的工具</h2><ul>
+<li><a href="http://cn.vuejs.org/guide/" target="_blank" rel="external">Vue</a></li>
+<li><a href="https://webpack.github.io/" target="_blank" rel="external">webpack</a></li>
+<li><a href="http://yuche.github.io/vue-strap/" target="_blank" rel="external">vue-strap</a></li>
+<li><a href="http://vuejs.github.io/vue-router/zh-cn/index.html" target="_blank" rel="external">vue-router</a></li>
+</ul>
+<h2 id="搭建步骤"><a href="#搭建步骤" class="headerlink" title="搭建步骤"></a>搭建步骤</h2><h3 id="1-首先建立项目的目录结构"><a href="#1-首先建立项目的目录结构" class="headerlink" title="1. 首先建立项目的目录结构"></a>1. 首先建立项目的目录结构</h3><ul>
+<li>demo_project/<ul>
+<li>dist/   <code>webpack生成的文件</code></li>
+<li>src/   <code>源代码文件</code><ul>
+<li>img/   <code>图片文件</code></li>
+<li>css/   <code>css文件</code></li>
+<li>js/   <code>js文件</code></li>
+<li>components/   <code>定义的vue组件</code></li>
+<li>views/   <code>视图文件，其实也是vue组件</code></li>
+</ul>
+</li>
+<li>webpack.config.js <code>webpack配置文件</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="2-安装vue-和webpack"><a href="#2-安装vue-和webpack" class="headerlink" title="2. 安装vue 和webpack"></a>2. 安装vue 和webpack</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 进入到 demo_project 目录下</span></div><div class="line">  npm install vue --save</div><div class="line">  npm install webpack --save</div></pre></td></tr></table></figure>
+<h3 id="3-添加webpack配置文件"><a href="#3-添加webpack配置文件" class="headerlink" title="3. 添加webpack配置文件"></a>3. 添加webpack配置文件</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">module</span>.exports = &#123;</div><div class="line">    entry: <span class="string">'./src/index.js'</span>,</div><div class="line">    output: &#123;</div><div class="line">        path: __dirname + <span class="string">'/dist'</span>,</div><div class="line">        filename: <span class="string">'bundle.js'</span></div><div class="line">    &#125;,</div><div class="line">    <span class="built_in">module</span>: &#123;</div><div class="line">        loaders: [&#123;</div><div class="line">            test: <span class="regexp">/\.css$/</span>,</div><div class="line">            loader: <span class="string">'style!css'</span></div><div class="line">        &#125;]</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h3 id="4-添加package-json文件"><a href="#4-添加package-json文件" class="headerlink" title="4. 添加package.json文件"></a>4. 添加package.json文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># cd 到 demo_project 目录下</span></div><div class="line">npm init <span class="comment">#跟着步骤一步一步的完成</span></div></pre></td></tr></table></figure>
+<p>最后生成的<code>package.json</code>文件如下<br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="string">"name"</span>: <span class="string">"vuedemo"</span>,</div><div class="line">  <span class="string">"version"</span>: <span class="string">"1.0.0"</span>,</div><div class="line">  <span class="string">"description"</span>: <span class="string">"a vue demo with webpack"</span>,</div><div class="line">  <span class="string">"main"</span>: <span class="string">"webpack.config.js"</span>,</div><div class="line">  <span class="string">"dependencies"</span>: &#123;</div><div class="line">    <span class="string">"vue"</span>: <span class="string">"^1.0.4"</span>,</div><div class="line">    <span class="string">"webpack"</span>: <span class="string">"^1.12.2"</span></div><div class="line">  &#125;,</div><div class="line">  <span class="string">"devDependencies"</span>: &#123;&#125;,</div><div class="line">  <span class="string">"scripts"</span>: &#123;</div><div class="line">    <span class="string">"test"</span>: <span class="string">"echo \"Error: no test specified\" &amp;&amp; exit 1"</span>,</div><div class="line">    <span class="string">"start"</span>:<span class="string">"webpack --color  --progress"</span></div><div class="line">    <span class="comment">//注意，这是我生成后加上的。用于执行webpack.如果webpack 安装在全局可以直接行动webpack进行打包</span></div><div class="line">  &#125;,</div><div class="line">  <span class="string">"author"</span>: <span class="string">"frank"</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h3 id="5-新增html和js入口文件"><a href="#5-新增html和js入口文件" class="headerlink" title="5. 新增html和js入口文件"></a>5. 新增html和js入口文件</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="comment">&lt;!-- src/index.html --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"utf-8"</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"../dist/bundle.js"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div></pre></td></tr></table></figure>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/* src/index.js  */</span></div><div class="line"><span class="built_in">document</span>.write(<span class="string">'hello. webpack runs ok!'</span>)</div></pre></td></tr></table></figure>
+<h3 id="6-验证webpack是否成功"><a href="#6-验证webpack是否成功" class="headerlink" title="6. 验证webpack是否成功"></a>6. 验证webpack是否成功</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm start</div></pre></td></tr></table></figure>
+<p>在浏览器中打开index.html .看到<code>hello. webpack runs ok!</code> 表示webpack成功了运行了</p>
+<blockquote>
+<p>后面就是使用vue的loader加载的vue文件了.下次再写<br>接着来安装 vue-loader</p>
+</blockquote>
+<h3 id="7-安装vue-loader"><a href="#7-安装vue-loader" class="headerlink" title="7.安装vue-loader"></a>7.安装vue-loader</h3><ul>
+<li><p>安装</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install vue-loader --save</div></pre></td></tr></table></figure>
+</li>
+<li><p>修改配置文件</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//webpack.config.js</span></div><div class="line">loaders[</div><div class="line">        ...</div><div class="line">    &#123;</div><div class="line">            test:<span class="regexp">/\.vue$/</span>,</div><div class="line">            loader:<span class="string">'vue'</span></div><div class="line">    &#125;</div><div class="line">        ...</div></pre></td></tr></table></figure>
+</li>
+<li><p>在views目录下创建测试的vue文件</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="comment">&lt;!-- hello.vue --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">template</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">strong</span>&gt;</span>&#123;&#123;vueMsg&#125;&#125;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">template</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="undefined"></span></div><div class="line"><span class="javascript"><span class="built_in">module</span>.exports = &#123;</span></div><div class="line"><span class="undefined">    data() &#123;</span></div><div class="line"><span class="javascript">      <span class="keyword">return</span> &#123;<span class="attr">vueMsg</span>:<span class="string">'Vue hello world'</span>&#125;</span></div><div class="line"><span class="undefined">    &#125;</span></div><div class="line"><span class="undefined">&#125;</span></div><div class="line"><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">style</span> <span class="attr">scoped</span>&gt;</span><span class="undefined"></span></div><div class="line"><span class="undefined">  strong&#123;</span></div><div class="line"><span class="undefined">    background-color: #f00;</span></div><div class="line"><span class="undefined">  &#125;</span></div><div class="line"><span class="undefined"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></div></pre></td></tr></table></figure>
+</li>
+<li><p>在index.js文件中引入vue</p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//index.js</span></div><div class="line"><span class="keyword">var</span> Vue = <span class="built_in">require</span>(<span class="string">'vue'</span>)</div><div class="line"><span class="keyword">var</span> helloVue = <span class="built_in">require</span>(<span class="string">'./views/hello.vue'</span>)</div><div class="line"> <span class="keyword">new</span> Vue(&#123;</div><div class="line">    el: <span class="string">"body"</span>,</div><div class="line">    components: &#123;</div><div class="line">        hello: helloVue</div><div class="line">    &#125;</div><div class="line">&#125;)</div></pre></td></tr></table></figure>
+</li>
+<li><p>修改index.html加入body中加入demo的vue节点</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">...</div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">  <span class="tag">&lt;<span class="name">hello</span>&gt;</span><span class="tag">&lt;/<span class="name">hello</span>&gt;</span></div><div class="line">  ...</div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line">...</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h3 id="8-测试vue"><a href="#8-测试vue" class="headerlink" title="8.测试vue"></a>8.测试vue</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#根目录执行</span></div><div class="line">npm start</div></pre></td></tr></table></figure>
+<p>打开index.html，看到<code>红色背景的Vue hello world</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近几天项目上使用了vue.js作为一个主要的开发框架，并且为了发布的方便搭配了webpack一起使用。CSS框架使用的是vue-strap(vue 对bootstrap控件做了封装)&lt;br&gt;这篇文章主要总结一下具体搭建的过程，和途中遇到的一些问题的解决办法&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="vue webpack vue-strap bootstarp" scheme="http://wangyonghua.com/tags/vue-webpack-vue-strap-bootstarp/"/>
+    
+  </entry>
+  
+</feed>
